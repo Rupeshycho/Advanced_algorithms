@@ -53,3 +53,11 @@ def greedy_tsp(start=0):
 # Run
 tour = greedy_tsp()
 print("Tour:", tour)
+
+
+
+print(range(5))
+for i in range(5):
+    print(i)
+
+#EXCLUSIVE
